@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#kafkaTest\\Producer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD22F85-C0EF-4B74-8B5D-A16888CFBA76}|Producer\\Producer.csproj|e:\\c#kafkatest\\producer\\producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD22F85-C0EF-4B74-8B5D-A16888CFBA76}|Producer\\Producer.csproj|solutionrelative:producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#kafkaTest\\Producer\\Producer\\Program.cs",
+              "RelativeDocumentMoniker": "Producer\\Program.cs",
+              "ToolTip": "E:\\c#kafkaTest\\Producer\\Producer\\Program.cs",
+              "RelativeToolTip": "Producer\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:01:03.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
